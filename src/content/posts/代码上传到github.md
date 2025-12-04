@@ -1,4 +1,12 @@
-# 保姆级教程：如何将代码保存到 GitHub（从零开始）
+---
+title: '这是标题'
+published: 2025-11-13
+draft: false
+image: "https://www.tr0.cn/uploads/2024/12/22f25331313ea93eaf91858e4ebc7bdc.webp"
+category: ["分类"]
+tags: ["Tag"]
+pinned: true
+---# 保姆级教程：如何将代码保存到 GitHub（从零开始）
 
 
 ---
