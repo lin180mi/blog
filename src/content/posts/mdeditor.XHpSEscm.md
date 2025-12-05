@@ -1,3 +1,13 @@
+---
+title: '保姆级教程：NVM安装及使用'
+published: 2025-12-5
+draft: false
+image: "https://www.tr0.cn/uploads/2024/12/22f25331313ea93eaf91858e4ebc7bdc.webp"
+category: ["教学"]
+tags: ["Tag"]
+pinned: true
+---
+
 # (教程) NVM 安装及使用
 
 ## 简介
