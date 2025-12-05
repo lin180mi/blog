@@ -1,3 +1,13 @@
+---
+title: '保姆级教程：yazi使用快捷键'
+published: 2025-11-13
+draft: false
+image: "https://www.tr0.cn/uploads/2024/12/22f25331313ea93eaf91858e4ebc7bdc.webp"
+category: ["教学"]
+tags: ["Tag"]
+pinned: true
+---
+
 # Yazi 备忘清单 (Yazi Cheatsheet)
 
 这份快速参考备忘单提供了 Yazi 快速的终端文件管理的简要概述，以及 Yazi 的基本操作。
