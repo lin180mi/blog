@@ -2,7 +2,7 @@
 title: '保姆级教程：yazi常用快捷键'
 published: 2025-11-13
 draft: false
-image: "https://www.tr0.cn/uploads/2024/12/22f25331313ea93eaf91858e4ebc7bdc.webp"
+image: "https://image.987119.xyz/uploads/2025/12/FwAker-dkcgk.webp"
 category: ["教学"]
 tags: ["Tag"]
 pinned: true
