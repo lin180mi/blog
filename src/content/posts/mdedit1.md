@@ -1,8 +1,8 @@
 ---
-title: '保姆级教程：NVM安装及使用'
-published: 2025-12-5
+title: '保姆级教程：nvm安装'
+published: 2025-11-13
 draft: false
-image: "https://image.987119.xyz/uploads/2025/12/YU4ybdbcXSUO.webp"
+image: "https://image.987119.xyz/uploads/2025/12/FwAker-dkcgk.webp"
 category: ["教学"]
 tags: ["Tag"]
 pinned: true
