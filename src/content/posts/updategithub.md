@@ -26,13 +26,13 @@ pinned: true
 
 2.  **安装 Git（版本控制工具）**
     * **Windows**：下载 Git → 安装（全部默认选项）。
-    * **Mac**：打开终端，运行：
- ```bash
-        brew install git  # 如果没安装 Homebrew，先运行 /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
- ```
+    * **Mac**：打开终端，运行:
+	```bash
+    brew install git  # 如果没安装 Homebrew，先运行 /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
+```
 
 3.  **检查 Git 是否安装成功**
-    打开终端（Windows 用 `Git Bash` 或 `CMD`），输入：
+    * 打开终端（Windows 用 `Git Bash` 或 `CMD`），输入：
  ```bash
     git --version
  ```
@@ -104,4 +104,3 @@ git push -u origin main  # 或 git push -u origin master
 ---
 
 如果有其他问题，欢迎随时提问！ 😊
-
