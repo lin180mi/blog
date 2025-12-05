@@ -1,9 +1,9 @@
 ---
-title: '这是标题'
+title: '保姆级教程：如何将代码保存到 GitHub（从零开始）'
 published: 2025-11-13
 draft: false
 image: "https://www.tr0.cn/uploads/2024/12/22f25331313ea93eaf91858e4ebc7bdc.webp"
-category: ["分类"]
+category: ["教学"]
 tags: ["Tag"]
 pinned: true
 ---
@@ -30,7 +30,6 @@ pinned: true
 	```bash
     brew install git  # 如果没安装 Homebrew，先运行 /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
 ```
-
 3.  **检查 Git 是否安装成功**
     * 打开终端（Windows 用 `Git Bash` 或 `CMD`），输入：
  ```bash
@@ -74,7 +73,7 @@ git add .
 # 指定文件
 git add index.html style.css script.js
 ```
-*[span_0](start_span)(注：原文中使用 `//` 注释，但在 Git Bash 中建议使用 `#`)*[span_0](end_span)
+(注：原文中使用 `//` 注释，但在 Git Bash 中建议使用 `#`)
 
 #### 4. 提交更改（商品到前台结账买单）
 ```bash
